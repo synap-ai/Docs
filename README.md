@@ -8,3 +8,5 @@ The poor mans wiki
 [Collected BCI resources](https://github.com/NeuroTechX/awesome-bci)
 
 [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+[Mental State Recognition via Wearable EEG](https://arxiv.org/pdf/1602.00985.pdf)
