@@ -21,3 +21,5 @@ The poor mans wiki
 [Muse web app](https://muse-eeg-app.firebaseapp.com/)
 
 [Brain Invaders](https://bitbucket.org/toncho11/openvibe-gipsa-extensions/overview)
+
+[EEG 101](https://github.com/NeuroTechX/eeg-101)
