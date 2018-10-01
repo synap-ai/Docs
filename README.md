@@ -17,6 +17,8 @@ The poor mans wiki
 
 [NeuraLink](https://waitbutwhy.com/2017/04/neuralink.html#part3)
 
+[Academic papers written about Muse](http://www.choosemuse.com/research/)
+
 ## Cool Things
 
 [Muse web app](https://muse-eeg-app.firebaseapp.com/)
