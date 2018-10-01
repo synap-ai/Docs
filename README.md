@@ -15,6 +15,7 @@ The poor mans wiki
 
 [BCI Illiteracy problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2874052/)
 
+[NeuraLink](https://waitbutwhy.com/2017/04/neuralink.html#part3)
 
 ## Cool Things
 
