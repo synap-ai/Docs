@@ -14,3 +14,8 @@ The poor mans wiki
 [Functional Connectivity for Mind state classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3236795/)
 
 [BCI Illiteracy problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2874052/)
+
+
+## Cool Things
+
+[Muse web app](https://muse-eeg-app.firebaseapp.com/)
