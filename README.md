@@ -12,3 +12,5 @@ The poor mans wiki
 [Mental State Recognition via Wearable EEG](https://arxiv.org/pdf/1602.00985.pdf)
 
 [Functional Connectivity for Mind state classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3236795/)
+
+[BCI Illiteracy problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2874052/)
