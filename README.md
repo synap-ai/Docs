@@ -19,3 +19,5 @@ The poor mans wiki
 ## Cool Things
 
 [Muse web app](https://muse-eeg-app.firebaseapp.com/)
+
+[Brain Invaders](https://bitbucket.org/toncho11/openvibe-gipsa-extensions/overview)
